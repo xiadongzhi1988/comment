@@ -11,6 +11,7 @@ markdown 语法支持 Markdown-Preview
 Markdown-Preview-Plus
 markdown 同步预览支持(有问题)  markdown-scroll-sync
 apm install markdown-scroll-sync
+apm install language-awk  支持awk
 ```
 
 # 本地创建仓库

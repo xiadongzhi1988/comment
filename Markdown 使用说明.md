@@ -39,7 +39,7 @@
 
 3. 高亮一段代码[^code]
 
-```
+```python
 @requires_authorization
 class SomeClass:
     pass
@@ -90,11 +90,11 @@ Bob-->Alice: I am good thanks!
 
 ### 7. 绘制表格
 
-| ** 项目        **   | ** 价格   **   | **  数量  **   | 
+| ** 项目        **   | ** 价格   **   | **  数量  **   |
 |:----|:----:|----:|:----:|:----:|:----:|
-|  计算机        |  $1600    |    5        | 
-|  手机           |    $12      |    12      | 
-|  管线           |     $1       |   234     | 
+|  计算机        |  $1600    |    5        |
+|  手机           |    $12      |    12      |
+|  管线           |     $1       |   234     |
 
 
 ### 8. 更详细语法说明
@@ -184,8 +184,8 @@ Bob-->Alice: I am good thanks!
 
 再一次感谢您花费时间阅读这份欢迎稿，点击 <i class="icon-file"></i> (Ctrl+Alt+N) 开始撰写新的文稿吧！祝您在这里记录、阅读、分享愉快！
 
-作者 [@ghosert](http://weibo.com/ghosert)     
-2016 年 07月 07日    
+作者 [@ghosert](http://weibo.com/ghosert)
+2016 年 07月 07日
 
 [^LaTeX] [MathJax][4] 参考更多使用方法。
 
@@ -195,5 +195,3 @@ Bob-->Alice: I am good thanks!
 
 
 [4]: http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference
-
-
